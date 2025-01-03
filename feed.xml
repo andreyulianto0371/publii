@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Go Blog</title>
+    <link href="https://andreyulianto0371.github.io/publii/feed.xml" rel="self" />
+    <link href="https://andreyulianto0371.github.io/publii" />
+    <updated>2025-01-03T08:30:18+07:00</updated>
+    <author>
+        <name>Andre Yulianto</name>
+    </author>
+    <id>https://andreyulianto0371.github.io/publii</id>
+
+    <entry>
+        <title>Lorem Ipsum </title>
+        <author>
+            <name>Andre Yulianto</name>
+        </author>
+        <link href="https://andreyulianto0371.github.io/publii/lorem-ipsum.html"/>
+        <id>https://andreyulianto0371.github.io/publii/lorem-ipsum.html</id>
+        <media:content url="https://andreyulianto0371.github.io/publii/media/posts/1/1-thumbnail.jpg" medium="image" />
+            <category term="lorem ipsum"/>
+            <category term="blog"/>
+
+        <updated>2025-01-03T08:30:18+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://andreyulianto0371.github.io/publii/media/posts/1/1-thumbnail.jpg" alt="Lorem Ipsum" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ex ac mauris pharetra finibus. Quisque condimentum dignissim diam scelerisque gravida. Vestibulum ullamcorper erat vel diam congue placerat. Mauris urna ante, aliquam pellentesque commodo quis, interdum at orci. Integer faucibus tincidunt risus sed consectetur. Pellentesque&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://andreyulianto0371.github.io/publii/media/posts/1/1-thumbnail.jpg" class="type:primaryImage" alt="Lorem Ipsum" /></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ex ac mauris pharetra finibus. Quisque condimentum dignissim diam scelerisque gravida. Vestibulum ullamcorper erat vel diam congue placerat. Mauris urna ante, aliquam pellentesque commodo quis, interdum at orci. Integer faucibus tincidunt risus sed consectetur. Pellentesque scelerisque hendrerit neque ut volutpat. Aliquam erat volutpat. Donec sodales sapien in sollicitudin sollicitudin. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam a pellentesque arcu, ac sagittis libero. Proin interdum enim ut fermentum molestie. Aliquam pretium risus ut elit ornare, id vestibulum dui hendrerit. Nulla facilisi. Nam sit amet leo pulvinar, consequat purus id, tempor augue. Nam feugiat diam id arcu tincidunt, a tempus purus sollicitudin. Nam sodales vestibulum consequat.</p><p>Suspendisse a pellentesque erat. Aliquam eros mi, malesuada in accumsan quis, aliquet eget orci. Nullam non ullamcorper odio. Vivamus id urna enim. Nunc nec purus mauris. Proin commodo in lacus id malesuada. Suspendisse a orci nec urna auctor venenatis. Vivamus malesuada, quam id egestas dictum, leo nisi rhoncus lorem, at tempor ligula risus quis erat. Proin laoreet in risus sed tempus. Vestibulum quis ipsum luctus, dignissim massa id, sagittis dui. Vestibulum vel felis commodo, consectetur odio non, commodo nibh. Curabitur efficitur in enim a feugiat. Curabitur sollicitudin diam mauris, tristique placerat augue consequat eu. Pellentesque interdum porttitor aliquam.</p><p>Nulla ultrices dictum libero. Integer ullamcorper nec nisi ullamcorper commodo. Proin scelerisque mi massa, quis congue lorem finibus sit amet. Donec cursus nunc id turpis bibendum, sit amet aliquam tortor tristique. Sed luctus finibus egestas. Sed tristique risus eu metus tempor, vel dignissim eros iaculis. In sit amet venenatis mauris. Duis maximus dolor eu augue gravida hendrerit. Vivamus egestas augue quis sem aliquet vulputate. Mauris eu elementum neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;</p><p>Duis sagittis eros vel augue laoreet, non posuere metus tempor. Nullam ipsum velit, vulputate in sagittis et, volutpat nec mauris. Aliquam erat volutpat. Suspendisse id tortor ultricies, tempor turpis non, egestas erat. Fusce facilisis tincidunt turpis vulputate vestibulum. Donec urna ante, sodales sit amet iaculis at, commodo in ligula. Donec elit purus, ultricies id ullamcorper vel, pulvinar ut ex. Praesent semper purus a elementum venenatis. Aenean ut mollis diam. Phasellus elementum, erat nec vestibulum hendrerit, nisl orci consequat neque, feugiat lobortis erat tortor sed sapien. Aenean dui dui, venenatis non orci vel, finibus iaculis tortor. Fusce a augue velit. Aliquam gravida laoreet ipsum, non tempus tellus commodo a. Maecenas vel bibendum nunc.</p><p>Maecenas nec est orci. Duis ultrices sagittis vehicula. Nulla fringilla tellus dictum venenatis pulvinar. Curabitur molestie dolor nisl, ac elementum orci porta sit amet. Maecenas tincidunt odio nec ligula fermentum mattis. Ut id nulla felis. Sed eu sem sed eros venenatis tempus. Mauris in dignissim nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
